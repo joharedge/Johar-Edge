@@ -12,7 +12,6 @@ A modern, user-friendly keyboard for typing Masaram Gondi script using English t
 - ✅ Type English letters → Get Gondi script
 - ✅ Real-time conversion
 - ✅ Support for vowels and consonants
-- ✅ Keyman keyboard layout
 - ✅ Mobile-friendly design
 
 ## Supported Characters
@@ -35,13 +34,9 @@ Visit: https://joharedge.github.io/Johar-Edge
 ### 1. Web Converter (No Installation Needed)
 Just visit the online version above.
 
-### 2. Keyman Keyboard (Windows/Mac/Android)
 
-Download and install Keyman Desktop: https://keyman.com/
 
-Then install the Masaram Gondi keyboard from the `/keyman` folder.
-
-### 3. Local Setup (Developers)
+### 2. Local Setup (Developers)
 ```bash
 # Clone repository
 git clone https://github.com/joharedge/Johar-Edge.git
@@ -111,7 +106,6 @@ MIT License - See LICENSE file for details
 
 - Unicode Masaram Gondi: https://unicode.org/charts/PDF/U11C00.pdf
 - Google Fonts Noto Sans Masaram Gondi
-- Keyman Platform: https://keyman.com/
 - ITRANS System: https://en.wikipedia.org/wiki/ITRANS
 
 ---
